@@ -1,0 +1,6 @@
+.DS_Store
+dst-3.0_16_1_hh_database.csv
+*.log
+config/
+**/__pycache__/
+!model.log
